@@ -45,3 +45,23 @@ p[data-paragraph='3'] {
 #title:hover {
     text-decoration: underline;
 }
+
+.pos-element {
+    background-color: pink;
+}
+
+span {
+    position: static;
+}
+
+#main-article {
+    border: 2px solid black;
+}
+
+span:nth-child(2){
+    background-color: green;
+    position: relative;
+    /* top: 15px; */
+    bottom: 250px;
+    left: 850px;
+}
