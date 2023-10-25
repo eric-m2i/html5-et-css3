@@ -7,3 +7,20 @@ h2 {
     font-size: xx-large;
     color:aqua;
 }
+
+/* section {
+    background-color: violet;
+} */
+
+div {
+    font-size: xx-large;
+    color: blue;
+}
+
+.custom-section {
+    background-color: red;
+}
+
+#ma-section-table {
+    background-color: violet;
+}
