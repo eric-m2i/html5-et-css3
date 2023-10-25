@@ -25,6 +25,6 @@ div {
     background-color: violet;
 }
 
-div p {
+div p, footer, h1 {
     color: gray
 }
