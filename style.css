@@ -41,3 +41,7 @@ div p:first-child {
 p[data-paragraph='3'] {
     text-decoration: underline;
 }
+
+#title:hover {
+    text-decoration: underline;
+}
