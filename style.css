@@ -60,8 +60,8 @@ span {
 
 span:nth-child(2){
     background-color: green;
-    position: relative;
-    /* top: 15px; */
-    bottom: 250px;
-    left: 850px;
+    position: absolute;
+    top: 15px;
+    /* bottom: 250px;
+    left: 850px; */
 }
