@@ -25,6 +25,19 @@ div {
     background-color: violet;
 }
 
+
 div p, footer, h1 {
     color: gray
+}
+
+div > p  {
+    color: green
+}
+
+div p:first-child {
+    color: deeppink;
+}
+
+p[data-paragraph='3'] {
+    text-decoration: underline;
 }
