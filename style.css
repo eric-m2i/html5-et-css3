@@ -61,7 +61,21 @@ span {
 span:nth-child(2){
     background-color: green;
     position: fixed;
-    top: 15px;
+    top: 25px;
     /* bottom: 250px;
     left: 850px; */
+}
+
+@media screen and (min-width: 480px) {
+    #title {
+        color:chocolate;
+        font-size: 45px;
+    }
+}
+
+@media screen and (min-width: 720px) {
+    #title {
+        color: red;
+        font-size: 55px;
+    }
 }
