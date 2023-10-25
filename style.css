@@ -24,3 +24,7 @@ div {
 #ma-section-table {
     background-color: violet;
 }
+
+div p {
+    color: gray
+}
